@@ -2,8 +2,6 @@
 
 ### Transforming Data into Interactive Insights
 
-Welcome to my Power BI Dashboard Portfolio.
-
 This repository showcases my practical work in data visualization and business intelligence using Microsoft Power BI.
 
 It contains interactive dashboards and analytical reports designed to transform raw data into meaningful visual insights, monitor business performance, track key performance indicators (KPIs), and support data-driven decision-making.
